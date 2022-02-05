@@ -26,10 +26,39 @@ The seminar will raise many questions, but few may be answered decisively. Stude
 Requirements and Grading
 ------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class participation | 50% |
-| Research paper | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The first requirement is active participation in seminar discussion. A successful seminar requires attendance at every meeting, completion of all readings, and active and engaged participation in the class. To stimulate discussion, students may be assigned to give short presentations on assigned readings or to serve as "resident expert" for that week's readings. The second requirement is a research paper on the topic of your choice.
 
