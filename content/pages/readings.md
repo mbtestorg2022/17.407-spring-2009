@@ -226,7 +226,7 @@ Peng, Guangqian, and Yao Youzhi. [The Science of Military Strategy](http://jour
 
 Wang, Houqing, and Zhang Xingye. _The Science of Campaigns \[Zhanyi Xue\]_. Washington, DC: National Defense University, 2000. Chapters 3 and 16.
 
-Jijun, Li. "Traditional Military Thinking and the Defensive Strategy of China." _Letort Paper No. 1._ United States War College, August 29, 1997. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.fas.org/nuke/guide/china/doctrine/china-li.pdf))
+Jijun, Li. "Traditional Military Thinking and the Defensive Strategy of China." _Letort Paper No. 1._ United States War College, August 29, 1997. ([PDF](http://www.fas.org/nuke/guide/china/doctrine/china-li.pdf))
 
 
 {{< tdclose >}}
@@ -244,7 +244,7 @@ Contemporary China: Grand strategy
 
 Goldstein, Avery. _Rising to the Challenge: China's Grand Strategy and International Security_. Palo Alto, CA: Stanford University Press, 2005. ISBN: 9780804752183.
 
-Saunders, Philip. "Chinas Global Activism: Strategy, Drivers, and Tools." _Institute for National Strategic Studies, Occasional Paper 4_. Washington, DC: National Defense University, October 2006. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB](http://catalogue.sipri.org/cgi-bin/koha/opac-detail.pl?biblionumber=32602))
+Saunders, Philip. "Chinas Global Activism: Strategy, Drivers, and Tools." _Institute for National Strategic Studies, Occasional Paper 4_. Washington, DC: National Defense University, October 2006. ([PDF - 2.0MB](http://catalogue.sipri.org/cgi-bin/koha/opac-detail.pl?biblionumber=32602))
 
 [_Chinas National Defense in 2008_](http://www.china.org.cn/government/central_government/2009-01/20/content_17155577.htm). State Council Information Office, 2009.
 
@@ -268,7 +268,7 @@ Johnston, Alastair Iain. _Cultural Realism: Strategic Culture and Grand Strategy
 
 Handel, Michael. _Masters of War, Sun Tzu, Clausewitz and Jomin_. London, UK: Frank Cass, 1992. ISBN: 9780714634760.
 
-Scobell, Andrew. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_China and Strategic Culture (PDF)_](http://www.globalsecurity.org/military/library/report/2002/ssi_scobell.pdf). Carlisle, PA: Strategic Studies Institute, May 2002, pp. 1-27.
+Scobell, Andrew. [_China and Strategic Culture (PDF)_](http://www.globalsecurity.org/military/library/report/2002/ssi_scobell.pdf). Carlisle, PA: Strategic Studies Institute, May 2002, pp. 1-27.
 
 Lantis, Jeffrey S. "[Strategic Culture and National Security Policy](http://www.fb03.uni-frankfurt.de/45431305/Lantis-2002--Strategic-Culture-and-NationalSecurity-Policy.pdf)." _International Studies Review_ 4, no. 3 (2002): 87-113.
 
